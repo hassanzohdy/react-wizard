@@ -1,0 +1,15 @@
+{
+  "logging": {
+    "as": "json",
+    "enabled": true
+  },
+  "cloneables": {
+    "baseUrl": "",
+    "modules": [
+      {
+        "name": "base-module",
+        "url": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+# NPM
+npm-debug.log*
+node_modules/
+.npm
+yarn-error.log
+
+/mongez
+
+# tests
+/coverage
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+
+# bundler
+.cache
+dist/
+
+# OSX
+.DS_Store
+.LSOverride

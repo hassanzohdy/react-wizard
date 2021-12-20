@@ -1,0 +1,9 @@
+#! /usr/bin/env node
+
+// the cjs will be added automatically when building the project so it must be set in the path here
+const bootstrap = require("./cjs/helpers/bootstrap");
+const letTheMagicBegin = require("./cjs/helpers/app");
+
+bootstrap();
+
+letTheMagicBegin();
